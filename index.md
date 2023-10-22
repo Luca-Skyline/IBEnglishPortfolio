@@ -5,4 +5,11 @@ minima:
   skin: dark
 ---
 
-## Here's a header for you
+# Title 1
+## Title 2
+
+Some Text
+
+## Title 3
+
+Some more text
