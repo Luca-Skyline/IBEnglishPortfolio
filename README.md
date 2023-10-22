@@ -1,8 +1,6 @@
 ---
-
+layout: default
+title: My First Page
 minima:
   skin: dark
-
-title: IB English Portfolio
-
 ---
