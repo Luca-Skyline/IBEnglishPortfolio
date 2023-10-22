@@ -1,15 +1,9 @@
 ---
 layout: default
-title: My First Page
+title: IB English Portfolio
 minima:
   skin: dark
 ---
 
-# Title 1
-## Title 2
-
-Some Text
-
-## Title 3
-
-Some more text
+# My IB English Portfolio
+## Luca DalCanto
